@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, its code, or any part of the implemented Transformer model, please cite it as software."
+title: "Fire Detection using Multi-layer Perceptron with binary classification"
+authors:
+  - family-names: "Ortu"
+    given-names: "Samoel"
+    affiliation: "Department of Electrical and Electronic Engineering (DIEE), University of Cagliari, Italy"
+  - family-names: "Anedda"
+    given-names: "Matteo"
+    affiliation: "Department of Electrical and Electronic Engineering (DIEE), University of Cagliari, Italy; National Inter-University Consortium for Telecommunications (CNIT), Cagliari Research Unit, Italy"
+  - family-names: "Giusto"
+    given-names: "Daniele"
+    affiliation: "Department of Electrical and Electronic Engineering (DIEE), University of Cagliari, Italy; National Inter-University Consortium for Telecommunications (CNIT), Cagliari Research Unit, Italy"
+version: "1.0.0"
+date-released: "2026-04-4"
+url: "https://github.com/samoelortu/FNN-binary-wildfire"
